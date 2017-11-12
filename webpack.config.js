@@ -61,5 +61,9 @@ module.exports = {
         use: ["xml-loader"]
       }
     ]
+  },
+  resolve: {
+    // you can now require('file') instead of require('file.coffee')
+    extensions: ['', '.js', '.json', '.css', '.csv', '.xml']
   }
 };
