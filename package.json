@@ -19,6 +19,7 @@
   ],
   "author": "'navinprasadk' <'navinprasad0808@gmail.com'>",
   "license": "ISC",
+  "repository":"https://github.com/navinprasadk/webpack-starter-development",
   "description": "This boilerplate contains webpack, the webpack configuration is specially designed for development environment not for production ",
   "devDependencies": {
     "//": "It is a wrapper that will emit files processed by webpack to a server. This is used in webpack-dev-server internally",
